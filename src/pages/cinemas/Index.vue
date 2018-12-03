@@ -1,6 +1,6 @@
 <template>
     <div id="cinemas">
-        <h1>111222sss </h1>
+        <h1>111222ssshello wrold </h1>
     </div>
 </template>
 
