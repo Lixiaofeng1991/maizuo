@@ -1,6 +1,6 @@
 <template>
     <div id="cinemas">
-        <h1>111</h1>
+        <h1>111222sss </h1>
     </div>
 </template>
 
