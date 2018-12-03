@@ -1,5 +1,7 @@
 <template>
-    <div id="cinemas"></div>
+    <div id="cinemas">
+        <h1>111</h1>
+    </div>
 </template>
 
 <script>
